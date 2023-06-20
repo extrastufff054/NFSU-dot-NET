@@ -1,0 +1,15 @@
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\obj\Debug\net6.0\dot-NET.csproj.AssemblyReference.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\obj\Debug\net6.0\dot-NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\obj\Debug\net6.0\dot-NET.AssemblyInfoInputs.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\obj\Debug\net6.0\dot-NET.AssemblyInfo.cs
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\obj\Debug\net6.0\dot-NET.csproj.CoreCompileInputs.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\bin\Debug\net6.0\dot-NET.exe
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\bin\Debug\net6.0\dot-NET.deps.json
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\bin\Debug\net6.0\dot-NET.runtimeconfig.json
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\bin\Debug\net6.0\dot-NET.dll
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\bin\Debug\net6.0\dot-NET.pdb
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\obj\Debug\net6.0\dot-NET.dll
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\obj\Debug\net6.0\refint\dot-NET.dll
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\obj\Debug\net6.0\dot-NET.pdb
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\obj\Debug\net6.0\dot-NET.genruntimeconfig.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dot-NET\obj\Debug\net6.0\ref\dot-NET.dll
