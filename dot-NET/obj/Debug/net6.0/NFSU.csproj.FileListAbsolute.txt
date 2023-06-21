@@ -1,0 +1,5 @@
+C:\Users\Ruchita\OneDrive\Documents\NFSU\obj\Debug\net6.0\NFSU.csproj.AssemblyReference.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\obj\Debug\net6.0\NFSU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruchita\OneDrive\Documents\NFSU\obj\Debug\net6.0\NFSU.AssemblyInfoInputs.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\obj\Debug\net6.0\NFSU.AssemblyInfo.cs
+C:\Users\Ruchita\OneDrive\Documents\NFSU\obj\Debug\net6.0\NFSU.csproj.CoreCompileInputs.cache

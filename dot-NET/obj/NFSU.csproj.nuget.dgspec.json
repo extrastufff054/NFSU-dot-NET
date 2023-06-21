@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\dot-NET\\dot-NET.csproj": {}
+    "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\NFSU.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\dot-NET\\dot-NET.csproj": {
+    "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\NFSU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\dot-NET\\dot-NET.csproj",
-        "projectName": "dot-NET",
-        "projectPath": "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\dot-NET\\dot-NET.csproj",
+        "projectUniqueName": "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\NFSU.csproj",
+        "projectName": "NFSU",
+        "projectPath": "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\NFSU.csproj",
         "packagesPath": "C:\\Users\\Ruchita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\dot-NET\\obj\\",
+        "outputPath": "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ruchita\\AppData\\Roaming\\NuGet\\NuGet.Config"
