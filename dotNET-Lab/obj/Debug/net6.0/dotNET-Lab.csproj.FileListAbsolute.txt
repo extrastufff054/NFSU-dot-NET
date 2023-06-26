@@ -1,0 +1,15 @@
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\obj\Debug\net6.0\dotNET-Lab.csproj.AssemblyReference.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\obj\Debug\net6.0\dotNET-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\obj\Debug\net6.0\dotNET-Lab.AssemblyInfoInputs.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\obj\Debug\net6.0\dotNET-Lab.AssemblyInfo.cs
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\obj\Debug\net6.0\dotNET-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\bin\Debug\net6.0\dotNET-Lab.exe
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\bin\Debug\net6.0\dotNET-Lab.deps.json
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\bin\Debug\net6.0\dotNET-Lab.runtimeconfig.json
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\bin\Debug\net6.0\dotNET-Lab.dll
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\bin\Debug\net6.0\dotNET-Lab.pdb
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\obj\Debug\net6.0\dotNET-Lab.dll
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\obj\Debug\net6.0\refint\dotNET-Lab.dll
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\obj\Debug\net6.0\dotNET-Lab.pdb
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\obj\Debug\net6.0\dotNET-Lab.genruntimeconfig.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\obj\Debug\net6.0\ref\dotNET-Lab.dll
