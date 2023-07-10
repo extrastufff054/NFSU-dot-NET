@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\dotNET-Lab\\dotNET-Lab.csproj",
+      "projectUniqueName": "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\dotNET-Lab\\U1\\dotNET-Lab.csproj",
       "projectName": "dotNET-Lab",
-      "projectPath": "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\dotNET-Lab\\dotNET-Lab.csproj",
+      "projectPath": "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\dotNET-Lab\\U1\\dotNET-Lab.csproj",
       "packagesPath": "C:\\Users\\Ruchita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\dotNET-Lab\\obj\\",
+      "outputPath": "C:\\Users\\Ruchita\\OneDrive\\Documents\\NFSU\\dotNET-Lab\\U1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ruchita\\AppData\\Roaming\\NuGet\\NuGet.Config"

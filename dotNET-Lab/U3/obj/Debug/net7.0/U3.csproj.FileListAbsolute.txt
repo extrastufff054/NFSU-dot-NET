@@ -1,0 +1,5 @@
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0\U3.csproj.AssemblyReference.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0\U3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0\U3.AssemblyInfoInputs.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0\U3.AssemblyInfo.cs
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0\U3.csproj.CoreCompileInputs.cache

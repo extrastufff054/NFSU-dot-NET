@@ -1,0 +1,15 @@
+C:\Users\indup\OneDrive\Desktop\OS practicals\bin\Debug\net6.0\OS practicals.exe
+C:\Users\indup\OneDrive\Desktop\OS practicals\bin\Debug\net6.0\OS practicals.deps.json
+C:\Users\indup\OneDrive\Desktop\OS practicals\bin\Debug\net6.0\OS practicals.runtimeconfig.json
+C:\Users\indup\OneDrive\Desktop\OS practicals\bin\Debug\net6.0\OS practicals.dll
+C:\Users\indup\OneDrive\Desktop\OS practicals\bin\Debug\net6.0\OS practicals.pdb
+C:\Users\indup\OneDrive\Desktop\OS practicals\obj\Debug\net6.0\OS practicals.csproj.AssemblyReference.cache
+C:\Users\indup\OneDrive\Desktop\OS practicals\obj\Debug\net6.0\OS practicals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indup\OneDrive\Desktop\OS practicals\obj\Debug\net6.0\OS practicals.AssemblyInfoInputs.cache
+C:\Users\indup\OneDrive\Desktop\OS practicals\obj\Debug\net6.0\OS practicals.AssemblyInfo.cs
+C:\Users\indup\OneDrive\Desktop\OS practicals\obj\Debug\net6.0\OS practicals.csproj.CoreCompileInputs.cache
+C:\Users\indup\OneDrive\Desktop\OS practicals\obj\Debug\net6.0\OS practicals.dll
+C:\Users\indup\OneDrive\Desktop\OS practicals\obj\Debug\net6.0\refint\OS practicals.dll
+C:\Users\indup\OneDrive\Desktop\OS practicals\obj\Debug\net6.0\OS practicals.pdb
+C:\Users\indup\OneDrive\Desktop\OS practicals\obj\Debug\net6.0\OS practicals.genruntimeconfig.cache
+C:\Users\indup\OneDrive\Desktop\OS practicals\obj\Debug\net6.0\ref\OS practicals.dll

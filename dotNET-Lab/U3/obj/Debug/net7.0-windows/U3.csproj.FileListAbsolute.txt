@@ -1,0 +1,15 @@
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0-windows\U3.csproj.AssemblyReference.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0-windows\U3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0-windows\U3.AssemblyInfoInputs.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0-windows\U3.AssemblyInfo.cs
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0-windows\U3.csproj.CoreCompileInputs.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\bin\Debug\net7.0-windows\U3.exe
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\bin\Debug\net7.0-windows\U3.deps.json
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\bin\Debug\net7.0-windows\U3.runtimeconfig.json
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\bin\Debug\net7.0-windows\U3.dll
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\bin\Debug\net7.0-windows\U3.pdb
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0-windows\U3.dll
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0-windows\refint\U3.dll
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0-windows\U3.pdb
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0-windows\U3.genruntimeconfig.cache
+C:\Users\Ruchita\OneDrive\Documents\NFSU\dotNET-Lab\U3\obj\Debug\net7.0-windows\ref\U3.dll
